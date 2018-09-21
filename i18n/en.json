@@ -1857,6 +1857,7 @@
   "generic_icons.attach": "Attachment Icon",
   "generic_icons.back": "Back Icon",
   "generic_icons.breadcrumb": "Breadcrumb Icon",
+  "generic_icons.channel.draft": "Channel Draft Icon",
   "generic_icons.channel.private": "Private Channel Icon",
   "generic_icons.channel.public": "Public Channel Icon",
   "generic_icons.collapse": "Collapse Icon",
